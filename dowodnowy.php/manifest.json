@@ -1,0 +1,15 @@
+{
+    "name": "mObywatel",
+    "short_name": "mObywatel",
+    "start_url": "/demobywatel/",
+    "display": "standalone",
+    "background_color": "#fff",
+    "description": "Aplikacja demonstracyjna dla gitów",
+  "icons": [
+    {
+      "src": "https://twojastarazapierdala-arch.github.io/demobywatel/dowod_files/favicon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }]
+  }
+  
